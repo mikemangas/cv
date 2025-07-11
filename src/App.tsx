@@ -1,23 +1,37 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Title from './components/Title/Title';
+import Address from './components/Address/Address';
+import Experience from './components/Experience/Experience';
+import Education from './components/Education/Education';
+import Hobbies from './components/Hobbies/Hobbies';
+import Knowledge from './components/Knowledge/Knowledge';
+import Languages from './components/Languages/Languages';
+import Socials from './components/Socials/Socials';
+import Volunteer from './components/Volunteer/Volunteer';
+import Picture from './components/Picture/Picture';
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className="top">
+          <Title/>
+          <Picture/>
+        </div>
+        <div className="socialsAddress">
+          <Socials/>
+          <Address/>
+        </div>
+        <div className="core">
+        <Experience/>
+        <Knowledge/>
+        <Languages/>
+        <Education/>
+        <Volunteer/>
+        <Hobbies/>
+        </div>
       </header>
     </div>
   );
