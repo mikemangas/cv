@@ -1,135 +1,133 @@
 {
-	"firstName": "Michail",
-	"lastName": "Mangasarov",
-	"street": "Bertelestraße 21",
-	"city": "München",
-	"zip": "80796",
-	"country": "Germany",
-	"email": "mangasarov@hotmail.de",
-	"phone": "+49 176 567 637 60",
-	"workExperience": [
-		{
-			"company": "T-Systems International GmbH",
-			"position": "Software Engineer",
-			"startDate": "2022-01-01",
-			"endDate": "Present",
-			"description": "Developing and maintaining software solutions.",
-			"location": "München"
-		},
-		{
-			"company": "Tech Solutions AG",
-			"position": "Junior Developer",
-			"startDate": "2020-01-01",
-			"endDate": "2021-12-31",
-			"description": "Assisted in software development projects.",
-			"location": "München"
-		},
-		{
-			"company": "Innovative Tech GmbH",
-			"position": "Intern",
-			"startDate": "2019-06-01",
-			"endDate": "2019-12-31",
-			"description": "Gained practical experience in software development.",
-			"location" : "München"
-		},
-		{
-			"company": "Freelance",
-			"position": "Web Developer",
-			"startDate": "2018-01-01",
-			"endDate": "2019-05-31",
-			"description": "Developed websites for various clients.",
-			"location": "München"
-		},
-		{
-			"company": "University of Technology",
-			"position": "Research Assistant",
-			"startDate": "2017-01-01",
-			"endDate": "2017-12-31",
-			"description": "Assisted in research projects related to software engineering.",
-			"location": "München"
-		}
-	],
-	"education": [
-		{
-			"institution": "Technical University of Munich",
-			"degree": "Bachelor of Science in Computer Science",
-			"startDate": "2014-10-01",
-			"endDate": "2017-09-30",
-			"description": "Studied computer science with a focus on software engineering.",
-			"location": "München"
-		},
-		{
-			"institution": "Technical University of Munich",
-			"degree": "Master of Science in Computer Science",
-			"startDate": "2017-10-01",
-			"endDate": "2019-09-30",
-			"description": "Specialized in software development and data science.",
-			"location": "München"
-		}
-	],
-	"knowledge": [
-		"JavaScript",
-		"TypeScript",
-		"React",
-		"Node.js",
-		"Python",
-		"Java",
-		"SQL",
-		"Git",
-		"Agile Methodologies",
-		"Problem Solving",
-		"Communication",
-		"Teamwork",
-		"Adaptability",
-		"Attention to Detail",
-		"Time Management"
-	],
-	"languages": [
-		{
-			"name": "German",
-			"level": "Native"
-		},
-		{
-			"name": "English",
-			"level": "Fluent"
-		},
-		{
-			"name": "Bulgarian",
-			"level": "Fluent"
-		},
-		{	"name": "Russian",
-			"level": "Fluent"
-		}
-	],
-	"socials": {
-		"github": "https:&&github.com/mmangasarov",
-		"linkedin": "https:&&www.linkedin.com/in/mmangasarov",
-		"twitter": "https:&&twitter.com/mmangasarov",
-		"facebook": "https:&&www.facebook.com/mmangasarov"
-	},
-	"volunteer": [
-		{
-			"organization": "Local Coding Bootcamp",
-			"role": "Mentor",
-			"startDate": "2021-01-01",
-			"endDate": "Present",
-			"description": "Mentoring aspiring developers in web development skills.",
-			"location": "München"
-		},
-		{
-			"organization": "Open Source Community",
-			"role": "Contributor",
-			"startDate": "2020-06-01",
-			"endDate": "Present",
-			"description": "Contributing to various open source projects.",
-			"location": "Online"
-		}
-	],
-	"hobbies": [
-		"Programming",
-		"Reading Tech Blogs",
-		"Traveling",
-		"Photography",
-		"Playing Chess"
-	]
+  "firstName": "Mike	",
+  "lastName": "Mangas",
+  "street": "Teststrasse",
+  "city": "München",
+  "zip": "80796",
+  "country": "Germany",
+  "email": "mikemike@gmail.de",
+  "phone": "+49 176 11",
+  "workExperience": [
+    {
+      "company": "T-Systems International GmbH",
+      "position": "Software Engineer",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "description": "Developing and maintaining software solutions.",
+      "location": "München"
+    },
+    {
+      "company": "Tech Solutions AG",
+      "position": "Junior Developer",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "description": "Assisted in software development projects.",
+      "location": "München"
+    },
+    {
+      "company": "Innovative Tech GmbH",
+      "position": "Intern",
+      "startDate": "2019-06-01",
+      "endDate": "2019-12-31",
+      "description": "Gained practical experience in software development.",
+      "location": "München"
+    },
+    {
+      "company": "Freelance",
+      "position": "Web Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-05-31",
+      "description": "Developed websites for various clients.",
+      "location": "München"
+    },
+    {
+      "company": "University of Technology",
+      "position": "Research Assistant",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-31",
+      "description": "Assisted in research projects related to software engineering.",
+      "location": "München"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University of Munich",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "2014-10-01",
+      "endDate": "2017-09-30",
+      "description": "Studied computer science with a focus on software engineering.",
+      "location": "München"
+    },
+    {
+      "institution": "Technical University of Munich",
+      "degree": "Master of Science in Computer Science",
+      "startDate": "2017-10-01",
+      "endDate": "2019-09-30",
+      "description": "Specialized in software development and data science.",
+      "location": "München"
+    }
+  ],
+  "knowledge": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Java",
+    "SQL",
+    "Git",
+    "Agile Methodologies",
+    "Problem Solving",
+    "Communication",
+    "Teamwork",
+    "Adaptability",
+    "Attention to Detail",
+    "Time Management"
+  ],
+  "languages": [
+    {
+      "name": "German",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Bulgarian",
+      "level": "Fluent"
+    },
+    { "name": "Russian", "level": "Fluent" }
+  ],
+  "socials": {
+    "github": "https:&&github.com/mmangasarov",
+    "linkedin": "https:&&www.linkedin.com/in/mmangasarov",
+    "twitter": "https:&&twitter.com/mmangasarov",
+    "facebook": "https:&&www.facebook.com/mmangasarov"
+  },
+  "volunteer": [
+    {
+      "organization": "Local Coding Bootcamp",
+      "role": "Mentor",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "description": "Mentoring aspiring developers in web development skills.",
+      "location": "München"
+    },
+    {
+      "organization": "Open Source Community",
+      "role": "Contributor",
+      "startDate": "2020-06-01",
+      "endDate": "Present",
+      "description": "Contributing to various open source projects.",
+      "location": "Online"
+    }
+  ],
+  "hobbies": [
+    "Programming",
+    "Reading Tech Blogs",
+    "Traveling",
+    "Photography",
+    "Playing Chess"
+  ]
 }
